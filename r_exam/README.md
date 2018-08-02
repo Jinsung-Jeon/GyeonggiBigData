@@ -83,6 +83,9 @@
 * 2018/08/01
     * R을 이용한 딥러닝(mxnet)
     * python을 이용한 tensorflow 선형회귀
+* 2018/08.02
+    * mnist분류(단층,다층)
+    * CNN
 <hr/>
 
 
