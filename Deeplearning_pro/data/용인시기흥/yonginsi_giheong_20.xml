@@ -1,0 +1,26 @@
+<annotation>
+	<folder>용인시기흥</folder>
+	<filename>yonginsi_giheong_20.jpg</filename>
+	<path>C:\Users\callab\Desktop\용인시기흥\yonginsi_giheong_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1147</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>61</ymin>
+			<xmax>1124</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>
